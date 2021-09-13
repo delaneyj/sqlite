@@ -1,4 +1,4 @@
-module delaneyj/sqlite
+module github.com/delaneyj/sqlite
 
 go 1.16
 

@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"crawshaw.io/sqlite"
-	"crawshaw.io/sqlite/sqlitex"
+	"github.com/delaneyj/sqlite"
+	"github.com/delaneyj/sqlite/sqlitex"
 )
 
 const poolSize = 20
