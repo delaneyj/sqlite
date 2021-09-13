@@ -1,4 +1,4 @@
-module crawshaw.io/sqlite
+module delaneyj/sqlite
 
 go 1.16
 
